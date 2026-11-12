@@ -1,0 +1,13 @@
+{
+  "name": "ប្រព័ន្ធរបាយការណ៍ហិរញ្ញវត្ថុ ៦២០២៨ - មណ្ឌលសុខភាពជាំក្រវៀន",
+  "short_name": "របាយការណ៍ 62028",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0284c7",
+  "lang": "km",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
